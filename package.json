@@ -1,0 +1,18 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "description": "universal app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "ytanruengsri <yuthasak.tanruengsri@gmail.com> (https://github.com/ytanruengsri)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "isomorphic-unfetch": "^1.0.0",
+    "next": "^2.3.0-alpha1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
